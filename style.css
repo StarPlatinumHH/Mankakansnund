@@ -49,17 +49,31 @@ section{
     padding-top: 11rem;
 }
 
-.btn{
-/*     display: inline-block;
+/* .btn{
+    display: inline-block;
     padding:.7rem 4rem;
     font-size: 2rem;
     color:#fff;
     background:var(--red);
     padding-top: 1rem;
-    margin-top: 1rem; */
+    margin-top: 1rem;
 }
 
 .btn:hover{
+    transform:scale(1.02);
+} */
+
+.btnSpecial{
+    display: inline-block;
+    padding:.7rem 4rem;
+    font-size: 2rem;
+    color:#fff;
+    background:var(--red);
+    padding-top: 1rem;
+    margin-top: 1rem;
+}
+
+.btnSpecial:hover{
     transform:scale(1.02);
 }
 
