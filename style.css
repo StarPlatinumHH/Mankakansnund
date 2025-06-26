@@ -140,6 +140,10 @@ header .navbar ul li a:hover{
     display: none;
 }
 
+.logos{
+    width: 60px;
+}
+
 .home{
     display: flex;
     align-items: center;
